@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello Bhaji"
+    },
+    {
+      "id": 2,
+      "title": "hello Sam"
+    },
+	{
+      "id": 3,
+      "title": "hello Ram"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
