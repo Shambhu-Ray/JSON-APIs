@@ -1,0 +1,143 @@
+{
+	"status": "null",
+	"success": "null",
+	"tests": [
+		{
+			"name": "Angular JS",
+			"testId": 121,
+			"questions": [
+				{
+					"title": "What is AngularJS ?",
+					"currectAnswerIndex": 0,
+					"options": [
+						"JS Freamwork",
+						"Programming Language",
+						"Scripting Language",
+						"Java Freamwork"
+					],
+					"selected": null,
+					"correct": null
+				},
+				{
+					"title": "Bind the propert from Controller to view using !",
+					"currectAnswerIndex": 1,
+					"options": [
+						"{}",
+						"ng-model",
+						"select",
+						"id"
+					],
+					"selected": null,
+					"correct": null
+				},
+				{
+					"title": "Directive for creating AngularJS Application ?",
+					"currectAnswerIndex": 2,
+					"options": [
+						"ng-init",
+						"ng-model",
+						"ng-app",
+						"ng-controller"
+					],
+					"selected": null,
+					"correct": null
+				},
+				{
+					"title": "$scope is ?",
+					"currectAnswerIndex": 1,
+					"options": [
+						"Function",
+						"Object",
+						"Global Variable",
+						"Service"
+					],
+					"selected": null,
+					"correct": null
+				},
+				{
+					"title": "Calling Web API using !",
+					"currectAnswerIndex": 0,
+					"options": [
+						"$http",
+						"get",
+						"Scripting Language",
+						"Java Freamwork"
+					],
+					"selected": null,
+					"correct": null
+				}
+			]		
+		},
+		{
+			"name": "Node JS",
+			"testId": 122,
+			"questions": [
+				{
+					"type": "text",
+					"title": "What is NodeJS ?",
+					"currectAnswerIndex": 0,
+					"options": [
+						"Programming language",
+						"Web Language",
+						"Scripting Language",
+						"Java Freamwork"
+					],
+					"selected": null,
+					"correct": null
+				},
+				{
+					"type": "text",
+					"title": "Bind the propert from Controller to view using !",
+					"currectAnswerIndex": 1,
+					"options": [
+						"{}",
+						"ng-model",
+						"select",
+						"id"
+					],
+					"selected": null,
+					"correct": null
+				},
+				{
+					"type": "text",
+					"title": "Directive for creating AngularJS Application ?",
+					"currectAnswerIndex": 2,
+					"options": [
+						"ng-init",
+						"ng-model",
+						"ng-app",
+						"ng-controller"
+					],
+					"selected": null,
+					"correct": null
+				},
+				{
+					"type": "text",
+					"title": "$scope is ?",
+					"currectAnswerIndex": 1,
+					"options": [
+						"Function",
+						"Object",
+						"Global Variable",
+						"Service"
+					],
+					"selected": null,
+					"correct": null
+				},
+				{
+					"type": "text",
+					"title": "Calling Web API using !",
+					"currectAnswerIndex": 0,
+					"options": [
+						"$http",
+						"get",
+						"Scripting Language",
+						"Java Freamwork"
+					],
+					"selected": null,
+					"correct": null
+				}
+			]		
+		}
+	]
+}
